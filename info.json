@@ -1,0 +1,10 @@
+{
+  "name": "LessUnplugged",
+  "version": "1.1.1",
+  "factorio_version": "2.0",
+  "title": "Less Unplugged: Smaller No Power Indicators",
+  "author": "OmaiGrundles",
+  "description": "Does that giant icon flashing in your face when you are building get annoying? Well I have the solution for you!",
+  "homepage": "",
+  "dependencies": ["base"]
+}
